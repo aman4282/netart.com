@@ -1,0 +1,89 @@
+ body
+ {
+ 	background-color: #FFF0BD;
+ }
+#logo{
+	margin-left: 34%;
+	height: 130px;
+}
+h1{
+	font-size: 1em;
+	margin-left: 33%;
+}
+#points{
+	margin-left: 37%;
+	font-size: 1.1em;
+}
+#award{
+	margin-left:-3%;
+	margin-top: -14%;
+	width: 500px;
+	height: 800px;
+	}
+#main{
+	margin-left:37%;
+	margin-top: -45%;
+
+
+	}
+#pic{
+	width: 100%;
+	height: 523px;
+}
+#x{
+	margin-left: -2%;
+	font-size: 1.1em;
+}
+#y{
+	font-style: bold;
+	margin-left: 1%;
+	font-size: .95em;
+
+}
+#secondary{
+	margin-left: 12%;
+}
+#pic2{
+	width: 86%;
+}
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+}
+.icon a{
+	display: inline-block;
+	height: 30px;
+	width: 30px;
+	background-color:white;
+    border-radius: 50%;
+	text-align: center;
+	font-size: 20px;	
+	color: #F14141;
+
+
+
+
+	justify-content: center;
+	margin-left: 7%;
+	margin-top: 3%;
+}
+.icon a i{
+	margin-top: 18%;
+
+}
+#facebook{
+	margin-left: 21%;
+}
+#browsericon{
+	width: 35px;
+	height: 35px; 
+	margin-left: 
+	color: white;
+	margin-left: 20%;
+	
+	background-color:#F14141;
+	color:  #F14141;
+	background:  #F14141;
+	border-radius: 50%;
+}
